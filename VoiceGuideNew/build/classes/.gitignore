@@ -1,0 +1,17 @@
+/.DS_Store
+/InitListener.class
+/MainServlet.class
+/PageJumper.class
+/Processor.class
+/Task.class
+/TaskDistributer.class
+/TaskNode.class
+/TxtReader.class
+/VoiceRecognizer.class
+/com/
+/filter/
+/myTTS.class
+/nlp/
+/org/
+/voiceServlet.class
+/workFlow/
